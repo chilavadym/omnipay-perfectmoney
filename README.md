@@ -3,8 +3,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a4e2fa978f7d47688581496e640b0eea)](https://www.codacy.com/app/sassoftinc/omnipay-perfectmoney?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aleksandrzhiliaev/omnipay-perfectmoney&amp;utm_campaign=Badge_Grade)
 [![Total Downloads](https://poser.pugx.org/aleksandrzhiliaev/omnipay-perfectmoney/downloads)](https://packagist.org/packages/aleksandrzhiliaev/omnipay-perfectmoney)
 
-Perfectmoney gateway for [Omnipay](https://github.com/thephpleague/omnipay) payment processing library.
-
 [Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements Perfectmoney support for Omnipay.
 
@@ -132,4 +130,4 @@ If you want to keep up to date with release anouncements, discuss ideas for the 
 or ask more detailed questions, there is also a [mailing list](https://groups.google.com/forum/#!forum/omnipay) which
 you can subscribe to.
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/aleksandrzhiliaev/omnipay-nixmoney/issues).
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/chilavadym/omnipay-nixmoney/issues).
